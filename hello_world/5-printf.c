@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - entry
+ * main - entry of point
  *
  * Return: 0
  */
