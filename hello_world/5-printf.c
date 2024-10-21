@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - defines the entry or the starting point tells the compiler where to begin 
+ * main - tells the compiler where to begin
  *
  * Return: value 0
  */
