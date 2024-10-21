@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - tells the compiler where to begin
  *
  * Return: value 0
