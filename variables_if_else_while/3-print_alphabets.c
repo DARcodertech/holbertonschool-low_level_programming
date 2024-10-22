@@ -3,12 +3,13 @@
  * main - the entry point
  *
  * Result: 0
- */ 
+ */
 int main(void)
 {
 
 	char a = 'a';
 	char A = 'A';
+
 	while (a <= 'z')
 	{
 	putchar(a);
@@ -19,7 +20,7 @@ int main(void)
 	putchar(A);
 	A++;
 	}
-	
+
 	putchar('\n');
 	return (0);
 }
