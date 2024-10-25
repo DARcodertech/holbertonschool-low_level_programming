@@ -1,5 +1,7 @@
 #include "main.h"
-
+/**
+ * print_alphabet - loop for aplhabet
+ */
 void print_alphabet(void)
 {
 	char a = 'a';
@@ -10,4 +12,4 @@ void print_alphabet(void)
 	a++;
 	}
 	_putchar('\n');
-}	
+}
