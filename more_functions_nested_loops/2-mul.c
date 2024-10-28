@@ -2,7 +2,7 @@
 /**
  * mul - fonction that calcu
  * @a: parameter
- * @b; parameter
+ * @b: parameter
  * Return: return result of a, b
  */
 int mul(int a, int b)
