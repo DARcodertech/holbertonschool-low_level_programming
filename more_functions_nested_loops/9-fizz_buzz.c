@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - the entry point
+ * Return: 0
+ */
 int main(void)
 {
 	int i;
@@ -22,14 +25,13 @@ int main(void)
 	{
 	printf("%d", i);
 	}
-	
 	if (i < 100)
 	{
 	printf(" ");
 	}
 	}
 	printf("\n");
-	
+
 
 return (0);
 }
