@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _puts - for puts string
- * @str - parameter for string
+ * @str: parameter for string
  */
 void _puts(char *str)
 {
