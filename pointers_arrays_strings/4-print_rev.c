@@ -1,5 +1,8 @@
 #include "main.h"
-
+/**
+ * print_rev - inverse a string 
+ * @s: string to insert 
+ */
 void print_rev(char *s)
 {
 	int length;
@@ -16,4 +19,4 @@ void print_rev(char *s)
 	}
 	_putchar('\n');
 
-}	
+}
