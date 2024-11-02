@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * puts_half - put half of a string 
+ * puts_half - put half of a string
  * @str: insert a string
  */
 void puts_half(char *str)
@@ -9,8 +9,8 @@ void puts_half(char *str)
 	int i;
 	int n;
 
-	n = (length - 1) /2;
-	
+	n = (length - 1) / 2;
+
 	while (str[length] != '\0')
 	{
 	length++;
@@ -29,5 +29,5 @@ void puts_half(char *str)
 	_putchar(str[i]);
 	}
 	_putchar('\n');
-	
+
 }
