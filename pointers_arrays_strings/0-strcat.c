@@ -2,6 +2,7 @@
  * _strcat - concenate string
  * @dest: parameter
  * @src: parameter
+ * return: dest
  */
 char *_strcat(char *dest, char *src)
 {
