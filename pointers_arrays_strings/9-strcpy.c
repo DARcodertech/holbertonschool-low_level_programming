@@ -2,6 +2,7 @@
  * _strcpy - copies a string
  * @dest: copy a string
  * @src: string for copy
+ * Return: return a dest
  */
 char *_strcpy(char *dest, char *src)
 {
