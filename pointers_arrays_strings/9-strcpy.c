@@ -1,8 +1,13 @@
+/**
+ * _strcpy - copies a string
+ * @dest: copy a string
+ * @src: string for copy
+ */
 char *_strcpy(char *dest, char *src)
 {
-	int i;	
-       
-	for(i = 0; src[i] != '\0'; i++)
+	int i;
+
+	for (i = 0; src[i] != '\0'; i++)
 	{
 	dest[i] = src[i];
 	}
