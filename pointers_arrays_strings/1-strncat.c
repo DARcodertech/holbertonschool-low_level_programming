@@ -1,6 +1,6 @@
 /**
- * _strncat - concatenates string 
- * @dest: parameter 
+ * _strncat - concatenates string
+ * @dest: parameter
  * @src: parameter
  * @n: parameter
  * Return: return dest
