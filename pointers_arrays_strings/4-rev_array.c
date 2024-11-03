@@ -1,5 +1,5 @@
 /**
- * reverse_array - reverse a array 
+ * reverse_array - reverse a array
  * @a: array
  * @n: number
  */
