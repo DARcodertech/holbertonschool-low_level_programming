@@ -1,8 +1,8 @@
 /**
- * _strcmp - compare strings 
+ * _strcmp - compare strings
  * @s1: paramater
  * @s2:parameter
- * Return: s1 and s2 
+ * Return: s1 and s2
  */
 int _strcmp(char *s1, char *s2)
 {
