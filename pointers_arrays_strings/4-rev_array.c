@@ -1,7 +1,7 @@
 /**
  * reverse_array - reverse a array 
  * @a: array
- * @: number
+ * @n: number
  */
 void reverse_array(int *a, int n)
 {
