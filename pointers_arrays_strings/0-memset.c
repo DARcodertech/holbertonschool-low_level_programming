@@ -3,6 +3,7 @@
  * @s: string or array
  * @b: char
  * @n: number
+ * Return: s
  */
 char *_memset(char *s, char b, unsigned int n)
 {
