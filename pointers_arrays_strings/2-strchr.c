@@ -1,8 +1,8 @@
 /**
  * _strchr - locates a character
- * @s: string 
+ * @s: string
  * @c: parameter
- * Return: 0 
+ * Return: 0
  */
 #include <stddef.h>
 char *_strchr(char *s, char c)
