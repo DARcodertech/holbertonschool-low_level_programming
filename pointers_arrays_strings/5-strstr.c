@@ -2,7 +2,7 @@
 /**
  * _strstr -  locates a substring
  * @haystack: parameter
- * @neddle: parameter
+ * @needle: parameter
  * Return: NULL
  */
 char *_strstr(char *haystack, char *needle)
@@ -13,22 +13,20 @@ char *_strstr(char *haystack, char *needle)
 	{
 	return (haystack);
 	}
-	
 	while (*haystack != '\0')
 	{
 	if (*haystack == *needle)
 	{
-	
 	while (needle[i] != '\0' && haystack[i] == needle[i])
 	{
 	i++;
 	}
 	if (needle[i] == '\0')
 	{
-	return haystack;
+	return (haystack);
 	}
 	}
 	haystack++;
 	}
 return (NULL);
-}	
+}
