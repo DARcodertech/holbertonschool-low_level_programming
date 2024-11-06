@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * print_diagsums - prints the sum of the two diagonals of a square matrix 
+ * print_diagsums - prints the sum of the two diagonals of a square matrix
  * @a: parameter
  * @size: parameter
  */
