@@ -1,5 +1,5 @@
 /**
- * _pow_recursion - function 
+ * _pow_recursion - function
  * @x: parameter
  * @y: parameter
  * Return: value
