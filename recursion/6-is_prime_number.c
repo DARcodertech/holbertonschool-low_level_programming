@@ -24,6 +24,7 @@ int is_prime_again(int n, int d)
 	}
 	return (is_prime_again(n , d + 1));
 }
+
 /**
  * is_prime_number - function
  * @n: parameter
