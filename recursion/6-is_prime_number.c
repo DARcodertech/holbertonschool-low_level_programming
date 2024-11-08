@@ -22,7 +22,8 @@ int is_prime_again(int n, int d)
 	{
 	return (1);
 	}
-	return (is_prime_again(n , d + 1));
+
+	return (is_prime_again(n, d + 1));
 }
 
 /**
