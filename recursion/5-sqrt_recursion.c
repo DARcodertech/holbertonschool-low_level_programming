@@ -3,13 +3,14 @@
  * @n: number
  * Return:
  */
-int _sqrt_again(int n, int guess);
+int _sqrt_again(int n, int l);
 
 int _sqrt_recursion(int n)
 {
 	return _sqrt_again (n, 1);
 }
-/** _sqrt_again - returns the natural square
+/** 
+ * _sqrt_again - returns the natural square
  * @n: number
  * Return: function
  */
