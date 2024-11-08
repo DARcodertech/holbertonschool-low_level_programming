@@ -12,6 +12,7 @@ int _sqrt_recursion(int n)
 /** 
  * _sqrt_again - returns the natural square
  * @n: number
+ * @l: number
  * Return: function
  */
 int _sqrt_again(int n, int l)
