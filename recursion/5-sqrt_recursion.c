@@ -2,6 +2,10 @@
  * _sqrt_recursion - returns the natural square
  * @n: number
  * Return: function
+ * _sqrt_again - returns the natural square
+ * @n: number
+ * @l: number
+ * Return: function
  */
 int _sqrt_again(int n, int l);
 
