@@ -2,7 +2,7 @@
  * is_prime_again - function
  * @n: parameter
  * @d: parameter
- * Return: 0 or 1
+ * Return: 0 or 1 n
  */
 int is_prime_again(int n, int d)
 {
