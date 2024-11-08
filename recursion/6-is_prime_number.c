@@ -31,5 +31,5 @@ int is_prime_again(int n, int d)
  */
 int is_prime_number(int n)
 {
-return (is_prime_again(n, 2));
+	return (is_prime_again(n, 2));
 }
