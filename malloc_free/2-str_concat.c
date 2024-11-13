@@ -2,7 +2,7 @@
 /**
  * str_concat - concenates
  * @s1: parameter
- * @s2; parameter
+ * @s2: parameter
  * Return: result
  */
 char *str_concat(char *s1, char *s2)
