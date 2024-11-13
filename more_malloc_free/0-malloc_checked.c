@@ -1,7 +1,7 @@
 #include <stdlib.h>
 /**
- * malloc_checker - function that allocates
- * @b: paramater
+ * malloc_checked - function that allocates
+ * @b: paramaeer
  * Return: p
  */
 void *malloc_checked(unsigned int b)
