@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  * struct dog - struct for dog
  * @name: name of dog
@@ -9,5 +10,4 @@ struct dog
 	char *name;
 	float age;
 	char *owner;
-
 };
