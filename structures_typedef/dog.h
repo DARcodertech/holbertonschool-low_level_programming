@@ -1,4 +1,3 @@
-#include <stdio.h>
 #ifndef __DOG__
 #define __DOG__
 /**
