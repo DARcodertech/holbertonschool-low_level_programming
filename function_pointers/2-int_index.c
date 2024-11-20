@@ -1,15 +1,16 @@
 #include "function_pointers.h"
 /**
- * int _index - searche for a integer
+ * int_index - searche for a integer
  * @array: array
  * @size: size
  * @cmp: cmp
+ * Return: -1
  */
 int int_index(int *array, int size, int (*cmp)(int))
 {
 	int i;
 
-	if (array == NULL || cmp == NULL || size <=0)
+	if (array == NULL || cmp == NULL || size <= 0)
 	{
 	return (-1);
 	}
