@@ -24,7 +24,7 @@ return (NULL);
 }
 while (str[length])
 {
-length++;    
+length++;
 }
 n->str = strag;
 n->len = length;
